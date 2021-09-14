@@ -281,10 +281,6 @@ function phlinhng(){
 curl -fsSL https://cdn.jsdelivr.net/gh/phlinhng/v2ray-tcp-tls-web@main/src/xwall.sh -o ~/xwall.sh && bash ~/xwall.sh
 }
 
-function eure(){
-wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/YG-tsj/EUservRenew/EuRe.sh && chmod +x EuRe.sh && ./EuRe.sh
-}
-
 function reboot(){
 reboot
 }
