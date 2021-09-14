@@ -1,1 +1,4 @@
-# djxq
+```
+wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/ygkkk/DJwarp/DJwarp.sh && chmod +x DJwarp.sh && ./DJwarp.sh
+```
+进入脚本快捷方式 ```bash DJwarp.sh```
