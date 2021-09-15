@@ -1,5 +1,5 @@
 ```
-wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/kkkyg/DJwarp/DJwarp.sh && chmod +x DJwarp.sh && ./DJwarp.sh
+wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/xyyseu2020/DJwarp/DJwarp.sh && chmod +x DJwarp.sh && ./DJwarp.sh
 ```
 进入脚本快捷方式 ```bash DJwarp.sh```
 
